@@ -1,0 +1,37 @@
+# Ignore Flutter/Dart build files
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/build/
+**/.pub-cache/
+
+# Ignore IDE settings
+**/.idea/
+**/.vscode/
+*.iml
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore iOS build artifacts
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/App.framework
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/Podfile.lock
+
+# Ignore Android build artifacts
+**/android/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/android/app/*.keystore
+
+# Ignore temporary files
+*.log
+*.lock
+*.tmp
+*.bak
+*.swp
