@@ -1,16 +1,12 @@
-# lab5_xylophone_sud
+# Lab 5: Xylophone - Using Flutter and Dart Packages to Speed Up DevelopmentAssignment
 
-A new Flutter project.
+In this lab, you will build a simple Xylophone application using Flutter and Dart packages. The application will play a different note when a button is pressed. The application will make use of the audioplayers package to play the notes.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this lab, you need to have Flutter installed on your computer. After that, clone the repository and navigate to the project directory. Then, run `flutter run` to start the application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is displayed as follows:
+![Lab 5 SUD](/demo/Lab5_sud.png)

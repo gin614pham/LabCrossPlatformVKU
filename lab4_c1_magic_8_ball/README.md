@@ -1,16 +1,12 @@
-# lab4_c1_magic_8_ball
+## About
 
-A new Flutter project.
+This is the fourth lab of the Cross-Platform Programming course at VKU University. The lab is to create a "Magic 8 Ball" application that displays a random answer to a question on the screen.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+To run this lab, you need to have Flutter installed on your computer. After that, clone the repository and navigate to the project directory. Then, run `flutter run` to start the application.
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The application is displayed as follows:
+![Lab 4](/demo/lab4.png)
